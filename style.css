@@ -1,0 +1,51 @@
+.hed{
+
+    background: red;
+    color:green;
+    display: block;
+    letter-spacing:10px;
+    text-align: center;
+    height: 50px;
+}
+ul{
+    margin: 0;
+    padding:0;
+    list-style: none;
+    text-align:left;
+    text-align:left;
+   
+}
+
+li {
+    display:inline-block;
+    margin-right: 4px;
+    list-style: none;
+}
+li{
+ background: black;
+color:white;
+padding: 5px 25px;
+
+text-decoration:none;
+border-radius: 5px;
+transition: 0.7s;
+
+}
+ul{background: black;}
+
+ul li:hover {
+    background:blanchedalmond;
+    color: black;
+}
+
+a{ color: white;
+text-decoration: none;}
+
+
+
+
+.image{
+    height: 300px;
+    width: 300px; ;
+    
+}
